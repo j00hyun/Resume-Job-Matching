@@ -1,0 +1,42 @@
+Your Name
+Junior Data Analyst
+San Francisco, USA  •  (123) 456-789  •  yourname@resumeworded.com  •  linkedin.com/in/your-profile
+EXPERIENCE
+Google
+ - Austin, USA
+May 2022 - Present
+Junior Data Analyst
+Streamlined data collection procedures, reducing errors by 35%
+Presented analysis findings to senior management, influencing their decision to invest in a new $2M project
+Utilized R and Tableau to analyze and visualize business performance data, driving a 15% increase in sales
+Liaised with IT department to resolve complex software issues, reducing downtime by 40%
+Developed machine learning algorithms to predict customer churn with 85% accuracy
+Microsoft
+ - Berlin, Germany
+January 2022 - April 2022
+Data Analyst Intern
+Improved data infrastructure, leading to a 20% increase in data processing speed
+Presented monthly performance reports to managers, contributing to 15% increase quarter on quarter
+Assisted in the development of an AI-based predictive analysis model, resulting in a 10% boost in sales
+EDUCATION
+Resume Worded University
+ - San Francisco, USA
+March 2022
+Master of Science - Data Analytics
+Specialized in Machine Learning and Artificial Intelligence
+Recipient of Merit Based Scholarship (Top 10%)
+Resume Worded University
+ - Columbus, USA
+May 2020
+Bachelor of Science - Computer Science
+Minors in Mathematics and Statistics
+Honor Roll 2019 (Top 20%)
+SKILLS
+Programming Languages: Python (Advanced), R (Advanced), Java (Intermediate), SQL (Expert)
+Big Data Tools: Apache Hadoop (Expert), Spark (Intermediate), Microsoft Power BI (Intermediate), Tableau (Advanced)
+Machine Learning: Scikit-learn (Expert), TensorFlow (Advanced), Keras (Intermediate)
+Statistical Analysis: Excel (Advanced), SPSS (Advanced), SAS (Intermediate), STATA (Beginner)
+OTHER
+Certifications: Microsoft Certified: Data Analyst Associate, Google Data Analytics Professional Certificate
+Projects: Developed a predictive model to forecast sales trends using Python and Machine Learning algorithms
+Volunteering: Data Analyst Volunteer at Local Non-profit - Assisted in deploying data gathering and analysis techniques to optimize resource allocation
