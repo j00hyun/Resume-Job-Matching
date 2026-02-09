@@ -117,11 +117,11 @@ def scrape_indeed_coop():
 
                     results.append(
                         {
-                            "job_title": title,
+                            "title": title,
                             "company": company,
                             "location": location,
-                            "job_link": job_link,              # ✅ added
-                            "job_description": job_description,
+                            "link": job_link,        
+                            "description": job_description,
                         }
                     )
 
@@ -145,11 +145,11 @@ def save_to_csv(jobs):
         writer = csv.DictWriter(
             f,
             fieldnames=[
-                "job_title",
+                "title",
                 "company",
                 "location",
-                "job_link",          # ✅ added
-                "job_description",
+                "link",        
+                "description",
             ],
         )
         writer.writeheader()
