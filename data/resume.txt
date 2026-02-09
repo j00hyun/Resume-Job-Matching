@@ -32,7 +32,7 @@ Bachelor of Science - Computer Science
 Minors in Mathematics and Statistics
 Honor Roll 2019 (Top 20%)
 SKILLS
-Programming Languages: Python (Advanced), R (Advanced), Java (Intermediate), SQL (Expert)
+Programming Languages: Python (Advanced), R (Advanced), Java (Intermediate), SQL (Expert), C++, Node.js
 Big Data Tools: Apache Hadoop (Expert), Spark (Intermediate), Microsoft Power BI (Intermediate), Tableau (Advanced)
 Machine Learning: Scikit-learn (Expert), TensorFlow (Advanced), Keras (Intermediate)
 Statistical Analysis: Excel (Advanced), SPSS (Advanced), SAS (Intermediate), STATA (Beginner)
